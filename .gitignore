@@ -1,0 +1,9 @@
+# Local browser captures and logs
+*-check.png
+*.log
+
+# Editor and OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,28 @@
+name: Update SPOTi events
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-events:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Scrape current events
+        shell: pwsh
+        run: ./tools/update-events.ps1
+      - name: Commit fresh event data
+        shell: pwsh
+        run: |
+          git config user.name "spoti-events-bot"
+          git config user.email "spoti-events-bot@users.noreply.github.com"
+          git add events-data.js
+          if (-not (git diff --cached --quiet)) {
+            git commit -m "chore: refresh Ljubljana events"
+            git push
+          }
