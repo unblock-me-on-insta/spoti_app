@@ -1,24 +1,6 @@
 /* Generated automatically by tools/update-events.ps1. */
 window.SPOTI_EVENTS = [
   {
-    "id": "library-under-treetops-2026-06-01",
-    "title": "Library Under the Treetops",
-    "category": "Družina",
-    "date": "2026-06-01",
-    "endDate": "2026-09-13",
-    "startTime": "10:00",
-    "endTime": "",
-    "place": "Ljubljana",
-    "address": "Ljubljana",
-    "lat": 46.053039999999996,
-    "lng": 14.507603999999999,
-    "price": "Prost vstop",
-    "description": "An original outdoor reading project, intended for the general public, brings equipment and books each year to green corners of towns and cities, inviting people throughout the summer to read, browse, and relax under the trees.",
-    "image": "https://www.visitljubljana.com/assets/gallery/Knjiznica-pod-krosnjami-Park-zvezda-2015-Matej-Perko__FocusFillMaxWyItMC4wMSIsIjAuNDMiLDEwMDAsNDUwXQ.jpg",
-    "source": "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana/library-under-treetops",
-    "sourceName": "Visit Ljubljana"
-  },
-  {
     "id": "unicum-2026-2026-07-08",
     "title": "UNICUM 2026",
     "category": "Glasba",
@@ -28,8 +10,8 @@ window.SPOTI_EVENTS = [
     "endTime": "18:00",
     "place": "National Museum of Slovenia (Muzejska ulica 1), NMS Metelkova (Maistrova ulica 1) and Center Rog (Trubarjeva cesta 72), 1000 Ljubljana",
     "address": "National Museum of Slovenia (Muzejska ulica 1), NMS Metelkova (Maistrova ulica 1) and Center Rog (Trubarjeva cesta 72), 1000 Ljubljana",
-    "lat": 46.05076,
-    "lng": 14.50257599999994,
+    "lat": 46.049679999999995,
+    "lng": 14.505867999999971,
     "price": "Preveri vir",
     "description": "6th International Ceramics Triennial",
     "image": "https://www.visitljubljana.com/assets/EventRegistration/Images/UNICUM-2026-Jaka-Tersek-arhiv-Narodni-muzej-Slovenije-1__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTAwMCw0NTBd.jpg",
@@ -46,8 +28,8 @@ window.SPOTI_EVENTS = [
     "endTime": "20:00",
     "place": "Koruzni labirint Ljubljana, 1751 Stanežiče",
     "address": "Koruzni labirint Ljubljana, 1751 Stanežiče",
-    "lat": 46.05292,
-    "lng": 14.50509200000003,
+    "lat": 46.04727,
+    "lng": 14.500426999999881,
     "price": "Preveri vir",
     "description": "Corn Jungle",
     "image": "https://www.visitljubljana.com/assets/Aktivnosti/Kultura-in-umetnost/Prireditve-na-prostem/Koruzni-labirint/Koruzni-labirint-Ljubljana-2026__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTAwMCw0NTBd.jpg",
@@ -82,8 +64,8 @@ window.SPOTI_EVENTS = [
     "endTime": "17:00",
     "place": "Gallusovo nabrežje (Gallus Embankment), 1000 Ljubljana",
     "address": "Gallusovo nabrežje (Gallus Embankment), 1000 Ljubljana",
-    "lat": 46.052279999999996,
-    "lng": 14.501627999999998,
+    "lat": 46.051779999999994,
+    "lng": 14.502078000000008,
     "price": "Prost vstop",
     "description": "Exhibition Sales Art Festival",
     "image": "https://www.visitljubljana.com/assets/Element-Gallery/IMG_4254__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTAwMCw0NTBd.JPG",
@@ -127,6 +109,24 @@ window.SPOTI_EVENTS = [
     "sourceName": "Visit Ljubljana"
   },
   {
+    "id": "poljanska-fest-2026-09-20",
+    "title": "Poljanska fest",
+    "category": "Glasba",
+    "date": "2026-09-20",
+    "endDate": null,
+    "startTime": "10:00",
+    "endTime": "22:00",
+    "place": "Poljanska cesta from Resljeva cesta to Ulica Janeza Pavla II",
+    "address": "Poljanska cesta from Resljeva cesta to Ulica Janeza Pavla II",
+    "lat": 46.05385,
+    "lng": 14.500185,
+    "price": "Prost vstop",
+    "description": "From the 'Peglezen' building to the Poljane High School",
+    "image": "https://www.visitljubljana.com/assets/376638401-1021714122607252-5627362857848496418-n__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTAwMCw0NTBd.jpg",
+    "source": "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana/poljanska-fest",
+    "sourceName": "Visit Ljubljana"
+  },
+  {
     "id": "uec-road-european-championships-2026-10-02",
     "title": "UEC Road European Championships 2026",
     "category": "Glasba",
@@ -136,8 +136,8 @@ window.SPOTI_EVENTS = [
     "endTime": "",
     "place": "Ljubljana",
     "address": "Ljubljana",
-    "lat": 46.048629999999996,
-    "lng": 14.50676300000012,
+    "lat": 46.047579999999996,
+    "lng": 14.49905800000012,
     "price": "Prost vstop",
     "description": "Together with eleven municipalities across Central Slovenia and Gorenjska, Ljubljana will host the 2026 UEC Road European Championships from 2 to 7 October 2026, the largest cycling event held in Slovenia since the country gained independence.",
     "image": "https://www.visitljubljana.com/assets/Kolesarjenje/Dogodki/UEC-cestno-kolesarstvo-EKP_1065X600-urejena-1920px__FocusFillMaxWyItMC4wMSIsIi0wLjE3IiwxMDAwLDQ1MF0.jpg",
@@ -145,4 +145,4 @@ window.SPOTI_EVENTS = [
     "sourceName": "Visit Ljubljana"
   }
 ];
-window.SPOTI_EVENTS_META = {"source":"Visit Ljubljana","updatedAt":"2026-09-09T08:56:49.3478393+00:00","automated":true,"count":8};
+window.SPOTI_EVENTS_META = {"source":"Visit Ljubljana","updatedAt":"2026-09-10T08:55:42.9125053+00:00","automated":true,"count":8};
