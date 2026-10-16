@@ -1,24 +1,6 @@
 /* Generated automatically by tools/update-events.ps1. */
 window.SPOTI_EVENTS = [
   {
-    "id": "unicum-2026-2026-07-08",
-    "title": "UNICUM 2026",
-    "category": "Glasba",
-    "date": "2026-07-08",
-    "endDate": "2026-10-15",
-    "startTime": "10:00",
-    "endTime": "18:00",
-    "place": "National Museum of Slovenia (Muzejska ulica 1), NMS Metelkova (Maistrova ulica 1) and Center Rog (Trubarjeva cesta 72), 1000 Ljubljana",
-    "address": "National Museum of Slovenia (Muzejska ulica 1), NMS Metelkova (Maistrova ulica 1) and Center Rog (Trubarjeva cesta 72), 1000 Ljubljana",
-    "lat": 46.048649999999995,
-    "lng": 14.499765,
-    "price": "Preveri vir",
-    "description": "6th International Ceramics Triennial",
-    "image": "https://www.visitljubljana.com/assets/EventRegistration/Images/UNICUM-2026-Jaka-Tersek-arhiv-Narodni-muzej-Slovenije-1__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTAwMCw0NTBd.jpg",
-    "source": "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana/unicum-2026",
-    "sourceName": "Visit Ljubljana"
-  },
-  {
     "id": "corn-labyrinth-2026-07-11",
     "title": "Corn Labyrinth Ljubljana",
     "category": "Glasba",
@@ -28,8 +10,8 @@ window.SPOTI_EVENTS = [
     "endTime": "20:00",
     "place": "Koruzni labirint Ljubljana, 1751 Stanežiče",
     "address": "Koruzni labirint Ljubljana, 1751 Stanežiče",
-    "lat": 46.05173,
-    "lng": 14.501973000000008,
+    "lat": 46.04953,
+    "lng": 14.507453000000009,
     "price": "Preveri vir",
     "description": "Corn Jungle",
     "image": "https://www.visitljubljana.com/assets/Aktivnosti/Kultura-in-umetnost/Prireditve-na-prostem/Koruzni-labirint/Koruzni-labirint-Ljubljana-2026__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTAwMCw0NTBd.jpg",
@@ -46,8 +28,8 @@ window.SPOTI_EVENTS = [
     "endTime": "",
     "place": "Ljubljana",
     "address": "Ljubljana",
-    "lat": 46.04748,
-    "lng": 14.50484799999997,
+    "lat": 46.052519999999994,
+    "lng": 14.50115200000003,
     "price": "Preveri vir",
     "description": "Best of European table tennis comes to Ljubljana",
     "image": "https://www.visitljubljana.com/assets/Prireditve/EP-v-namiznem-tenisu/darko-jorgic_Namiznoteniska-zveza-Slovenije__FocusFillMaxWyIwLjA2IiwiLTAuMDgiLDEwMDAsNDUwXQ.jpg",
@@ -82,8 +64,8 @@ window.SPOTI_EVENTS = [
     "endTime": "",
     "place": "Ljubljana",
     "address": "Ljubljana",
-    "lat": 46.047709999999995,
-    "lng": 14.504671000000002,
+    "lat": 46.05011,
+    "lng": 14.500811000000015,
     "price": "Preveri vir",
     "description": "Every autumn, Ljubljana comes alive with the spirit of running. Thousands of runners, supporters, and visitors from around the world fill the streets of the Slovenian capital, creating one of the largest sporting events in Slovenia and the wider region.",
     "image": "https://www.visitljubljana.com/assets/B2B/Tradicionalne-prireditve/15-maraton__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTAwMCw0NTBd.jpg",
@@ -118,8 +100,8 @@ window.SPOTI_EVENTS = [
     "endTime": "",
     "place": "Ljubljana",
     "address": "Ljubljana",
-    "lat": 46.053419999999996,
-    "lng": 14.507341999999992,
+    "lat": 46.049749999999996,
+    "lng": 14.506875,
     "price": "Preveri vir",
     "description": "A Festival with Taste",
     "image": "https://www.visitljubljana.com/assets/1-Pisma-iz-Ljubljane/Avgust-2026/November-Gourmet-Ljubljana-2026__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTAwMCw0NTBd.jpg",
@@ -127,4 +109,4 @@ window.SPOTI_EVENTS = [
     "sourceName": "Visit Ljubljana"
   }
 ];
-window.SPOTI_EVENTS_META = {"source":"Visit Ljubljana","updatedAt":"2026-10-15T09:07:06.2960041+00:00","automated":true,"count":7};
+window.SPOTI_EVENTS_META = {"source":"Visit Ljubljana","updatedAt":"2026-10-16T08:59:46.9021371+00:00","automated":true,"count":6};
