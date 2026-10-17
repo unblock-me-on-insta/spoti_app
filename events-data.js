@@ -10,8 +10,8 @@ window.SPOTI_EVENTS = [
     "endTime": "20:00",
     "place": "Koruzni labirint Ljubljana, 1751 Stanežiče",
     "address": "Koruzni labirint Ljubljana, 1751 Stanežiče",
-    "lat": 46.04953,
-    "lng": 14.507453000000009,
+    "lat": 46.05368,
+    "lng": 14.501068000000119,
     "price": "Preveri vir",
     "description": "Corn Jungle",
     "image": "https://www.visitljubljana.com/assets/Aktivnosti/Kultura-in-umetnost/Prireditve-na-prostem/Koruzni-labirint/Koruzni-labirint-Ljubljana-2026__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTAwMCw0NTBd.jpg",
@@ -28,30 +28,12 @@ window.SPOTI_EVENTS = [
     "endTime": "",
     "place": "Ljubljana",
     "address": "Ljubljana",
-    "lat": 46.052519999999994,
-    "lng": 14.50115200000003,
+    "lat": 46.04982,
+    "lng": 14.50748200000003,
     "price": "Preveri vir",
     "description": "Best of European table tennis comes to Ljubljana",
     "image": "https://www.visitljubljana.com/assets/Prireditve/EP-v-namiznem-tenisu/darko-jorgic_Namiznoteniska-zveza-Slovenije__FocusFillMaxWyIwLjA2IiwiLTAuMDgiLDEwMDAsNDUwXQ.jpg",
     "source": "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana/european-table-tennis-championships",
-    "sourceName": "Visit Ljubljana"
-  },
-  {
-    "id": "open-kitchen-2026-10-16",
-    "title": "Open Kitchen",
-    "category": "Hrana",
-    "date": "2026-10-16",
-    "endDate": null,
-    "startTime": "10:00",
-    "endTime": "21:00",
-    "place": "Pogačarjev trg, 1000 Ljubljana",
-    "address": "Pogačarjev trg, 1000 Ljubljana",
-    "lat": 46.0514,
-    "lng": 14.5107,
-    "price": "Preveri vir",
-    "description": "Odprta kuhna (Open kitchen) is a one of a kind food market and one of the most popular culinary projects in Slovenia that brings food lovers and culinary adventurers to Ljubljana's city centre (Pogačarjev trg) every sunny Friday from March until November.",
-    "image": "https://www.visitljubljana.com/assets/gallery/OK-20210820-LJ-216__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTAwMCw0NTBd.jpg",
-    "source": "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana/open-kitchen",
     "sourceName": "Visit Ljubljana"
   },
   {
@@ -64,8 +46,8 @@ window.SPOTI_EVENTS = [
     "endTime": "",
     "place": "Ljubljana",
     "address": "Ljubljana",
-    "lat": 46.05011,
-    "lng": 14.500811000000015,
+    "lat": 46.04729,
+    "lng": 14.50632900000006,
     "price": "Preveri vir",
     "description": "Every autumn, Ljubljana comes alive with the spirit of running. Thousands of runners, supporters, and visitors from around the world fill the streets of the Slovenian capital, creating one of the largest sporting events in Slovenia and the wider region.",
     "image": "https://www.visitljubljana.com/assets/B2B/Tradicionalne-prireditve/15-maraton__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTAwMCw0NTBd.jpg",
@@ -91,6 +73,24 @@ window.SPOTI_EVENTS = [
     "sourceName": "Visit Ljubljana"
   },
   {
+    "id": "open-kitchen-2026-10-23",
+    "title": "Open Kitchen",
+    "category": "Hrana",
+    "date": "2026-10-23",
+    "endDate": null,
+    "startTime": "10:00",
+    "endTime": "21:00",
+    "place": "Pogačarjev trg, 1000 Ljubljana",
+    "address": "Pogačarjev trg, 1000 Ljubljana",
+    "lat": 46.0514,
+    "lng": 14.5107,
+    "price": "Preveri vir",
+    "description": "Odprta kuhna (Open kitchen) is a one of a kind food market and one of the most popular culinary projects in Slovenia that brings food lovers and culinary adventurers to Ljubljana's city centre (Pogačarjev trg) every sunny Friday from March until November.",
+    "image": "https://www.visitljubljana.com/assets/gallery/OK-20210820-LJ-216__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTAwMCw0NTBd.jpg",
+    "source": "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana/open-kitchen",
+    "sourceName": "Visit Ljubljana"
+  },
+  {
     "id": "november-gourmet-ljubljana-2026-11-01",
     "title": "November Gourmet Ljubljana",
     "category": "Glasba",
@@ -100,8 +100,8 @@ window.SPOTI_EVENTS = [
     "endTime": "",
     "place": "Ljubljana",
     "address": "Ljubljana",
-    "lat": 46.049749999999996,
-    "lng": 14.506875,
+    "lat": 46.04891,
+    "lng": 14.49929099999994,
     "price": "Preveri vir",
     "description": "A Festival with Taste",
     "image": "https://www.visitljubljana.com/assets/1-Pisma-iz-Ljubljane/Avgust-2026/November-Gourmet-Ljubljana-2026__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTAwMCw0NTBd.jpg",
@@ -109,4 +109,4 @@ window.SPOTI_EVENTS = [
     "sourceName": "Visit Ljubljana"
   }
 ];
-window.SPOTI_EVENTS_META = {"source":"Visit Ljubljana","updatedAt":"2026-10-16T08:59:46.9021371+00:00","automated":true,"count":6};
+window.SPOTI_EVENTS_META = {"source":"Visit Ljubljana","updatedAt":"2026-10-17T08:31:33.1214265+00:00","automated":true,"count":6};
